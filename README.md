@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosRwb
-- 👀 I’m interested in Fronten development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any web design project
 - 📫 How to reach me carlosc.rwb@gmail.com
 
